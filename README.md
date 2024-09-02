@@ -20,5 +20,15 @@ Using SQL, I extracted snippets of data to be used later for further exploration
 
 ### Creating the dashboard by Power BI
 
-Using the sippets of data extracted above by SQL, the dashboard was created, featuring trends and insights.
+Using the snippets of data extracted above by SQL, the dashboard was created, featuring trends and insights.
+
+![p1](https://github.com/user-attachments/assets/39b9ba9c-7f23-4f92-96a8-5b36628948fe)
+![p2](https://github.com/user-attachments/assets/5349e0ca-138a-4e22-a7ad-428aa2e60fce)
+![p3](https://github.com/user-attachments/assets/68505579-95f1-4454-ac2f-033a66f5e76f)
+
+
+### Insights and Trends
+
+- The most sold Products in the whole world are Classic Cars and Motorcycles.
+- Sales has 
 
